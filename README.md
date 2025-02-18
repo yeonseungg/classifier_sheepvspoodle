@@ -37,3 +37,6 @@ TensorFlow 2.12는 Python 3.10 이하에서만 작동합니다. Python 3.12 환�
 해결 방법 1: runtime.txt에 3.10 추가
 
 해결 방법 2: tensorflow==2.17.1로 버전 변경 후 pip install -r requirements.txt 실행
+![image](https://github.com/user-attachments/assets/0fb4a626-308e-4216-b8da-24ead608153e)
+[완성된 페이지](https://classifiersheepvspoodle-vso5pv7pq4dtksxtjhtxd5.streamlit.app/)
+

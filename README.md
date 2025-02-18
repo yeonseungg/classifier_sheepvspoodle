@@ -1,5 +1,8 @@
 # 🐩 푸들 vs 양 분류기 🐏
 
+![image](https://github.com/user-attachments/assets/0fb4a626-308e-4216-b8da-24ead608153e)
+[완성된 페이지](https://classifiersheepvspoodle-vso5pv7pq4dtksxtjhtxd5.streamlit.app/)
+
 
 
 ## 📌 프로젝트 개요
@@ -16,6 +19,9 @@
 
 결과 출력: 예측된 클래스 및 신뢰도 표시
 
+
+
+
 ## 🛠️ 기술 스택
 
 Python 3.10
@@ -24,9 +30,16 @@ Streamlit
 NumPy
 Pillow (PIL)
 
+
+
+
+
 ## 🏷️ 요구 사항
 
 이 프로젝트는 Python 3.10 이하에서 실행해야 한다. Streamlit Cloud에서는 runtime.txt 파일을 설정해야 합니다.
+
+
+
 
 ## ❗ 문제 해결
 
@@ -37,6 +50,7 @@ TensorFlow 2.12는 Python 3.10 이하에서만 작동합니다. Python 3.12 환�
 해결 방법 1: runtime.txt에 3.10 추가
 
 해결 방법 2: tensorflow==2.17.1로 버전 변경 후 pip install -r requirements.txt 실행
-![image](https://github.com/user-attachments/assets/0fb4a626-308e-4216-b8da-24ead608153e)
-[완성된 페이지](https://classifiersheepvspoodle-vso5pv7pq4dtksxtjhtxd5.streamlit.app/)
+
+
+
 
